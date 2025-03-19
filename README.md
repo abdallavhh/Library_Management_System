@@ -46,6 +46,8 @@ pip install flet pandas fpdf
 python main.py
 
 
+---------------------------------------------------
+
 Future Enhancements
     • Fine management system 
     • Email notifications 
