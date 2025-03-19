@@ -52,5 +52,7 @@ Future Enhancements
     • Barcode/QR code integration 
     • Online catalog for members 
     
+---------------------------------------------------
+
 License
 MIT License - feel free to use and modify for your needs.
